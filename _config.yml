@@ -1,0 +1,40 @@
+typography_spectrum: 0.14275002060458064
+color:
+  brandStrength: 0.946305196499452
+  lightness: 0.9061830102000386
+  saturation: 0.5722521862480789
+  rhythmicContrast: 0.9234150794800371
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+layout_spectrum: 0.8594141888897866
+analytics:
+  twitter: twitter.com/vries
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c15c9049-bd80-4b49-8646-3d58e7150f5e.png
+name: ' '
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Projecten
+    id: 7518d790-2421-4389-871e-9b214f457289
+    type: content
+content: []
+title: Als het echt anders moet
+description: ''
+purpose:
+  - type: internal
+    label: Mediatraining
+    item: 7518d790-2421-4389-871e-9b214f457289
+  - type: internal
+    label: Intrapreneurship
+    item: 46e8a36f-20e2-4287-8ed7-9cd1f59d5e63
+github: true
